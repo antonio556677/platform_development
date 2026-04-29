@@ -9,4 +9,4 @@ tests/*/obj/
 tests/*/bin/
 tests/*/gen/
 local.properties
-build.xml
+buildl.xml
